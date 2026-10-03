@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on building projects to strengthen my Data Engineering skills.<br><br>- 🤝 I’m looking to collaborate on Data Engineering, Python, SQL, and open-source projects.<br><br>- 🤔 I’m looking for help with improving my approach to data pipelines, data modeling, and cloud-based data systems.<br><br>- 🌱 I’m currently learning PostgreSQL, ETL/ELT, dbt, Airflow, Docker, BigQuery, and cloud technologies.<br><br>- 💬 Ask me about Python, SQL, PostgreSQL, Power BI, APIs, or any of my projects.<br><br>- ⚡ Fun fact: I learn best by building things, breaking them, figuring out why they broke, and building them better. 🚀
+>- 🔭 I’m currently working on building projects to strengthen my Data Engineering skills.<br><br>- 🤝 I’m looking to collaborate on Data Engineering, Python, SQL, and open-source projects.<br><br>- 🤔 I’m looking for help with improving my approach to data pipelines, data modeling, and cloud-based data systems.<br><br>- 🌱 I’m currently learning PostgreSQL, ETL/ELT, dbt, Airflow, Docker, BigQuery, and cloud technologies.<br><br>- 💬 Ask me about Python, SQL, PostgreSQL, Power BI, APIs, or any of my projects.<br><br>- ⚡ Fun fact: I learn best by building things, breaking them, figuring out why they broke, and building them better. 🚀
  
 
 ## 🌐 Socials:

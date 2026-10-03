@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🔭 I’m currently working on building projects to strengthen my Data Engineering skills.<br><br>- 🤝 I’m looking to collaborate on Data Engineering, Python, SQL, and open-source projects.<br><br>- 🤔 I’m looking for help with improving my approach to data pipelines, data modeling, and cloud-based data systems.<br><br>- 🌱 I’m currently learning PostgreSQL, ETL/ELT, dbt, Airflow, Docker, BigQuery, and cloud technologies.<br><br>- 💬 Ask me about Python, SQL, PostgreSQL, Power BI, APIs, or any of my projects.<br><br>- ⚡ Fun fact: I learn best by building things, breaking them, figuring out why they broke, and building them better. 🚀
-
+ 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sniper_haswanth/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vipparthi-hasvanth-kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chintuhaswanth1421@gmail.com) 
